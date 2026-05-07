@@ -31,3 +31,7 @@ First, install dependencies:
 
 ```bash
 pip install -r requirements.txt
+
+Data is already cleaned and prepared using the script clean_heart_data.py which creates heart_disease_combined_cleaned.xlsx
+
+Then, run train_heart_models.py
