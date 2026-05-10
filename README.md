@@ -1,3 +1,5 @@
+ML README
+
 # heartDiseaseProjectML
 
 # Heart Disease Machine Learning Classification
@@ -30,8 +32,8 @@ The dataset was split into:
 First, install dependencies:
 
 ```bash
-pip install -r requirements.txt
+py -m pip install -r requirements.txt
 
-Data is already cleaned and prepared using the script clean_heart_data.py which creates heart_disease_combined_cleaned.xlsx
+Data is already cleaned and prepared using the script clean_heart_data.py which creates heart_disease_combined_cleaned.xlsx already included in the git repository
 
-Then, run train_heart_models.py
+Run train_heart_models.py (py train_heart_models.py)
